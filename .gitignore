@@ -35,19 +35,17 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .eslintrc.json
-```
+
 next.config.mjs
-```
+
 package-lock.json
 package.json
 yarn.lock
-```
 next.config.mjs
-```
+
 postcss.config.mjs
-```
 postcss.config.mjs
-```
+
 tailwind.config.mjs
 
 tsconfig.json
